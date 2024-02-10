@@ -17,7 +17,7 @@ const isHome = () => {
       <RouterLink class="nav-link active" to="/">홈</RouterLink>
       <RouterLink class="nav-link" to="/menu">메뉴</RouterLink>
       <RouterLink class="nav-link" to="/order">주문내역</RouterLink>
-      <RouterLink class="nav-link" to="/pay">결제</RouterLink>
+      <!-- <RouterLink class="nav-link" to="/pay">결제</RouterLink> -->
       <RouterLink class="nav-link" to="/more">더보기</RouterLink>
     </nav>
   </div>
